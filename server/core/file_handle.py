@@ -42,7 +42,6 @@ class FileHandle():
 
     def current_home_size(self, home):
         """得到当前用户home/alice目录的大小，字节/M"""
-        # conn_obj['home_bytes_size'] = 0
         self.home_bytes_size = 0
         self.recursion_file(home)
         print('字节：', self.home_bytes_size)  # 单位是字节
