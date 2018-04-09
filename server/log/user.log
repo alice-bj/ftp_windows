@@ -1,0 +1,16 @@
+2018-04-09 12:44:09 PM - user - INFO - user: alice 登录成功
+2018-04-09 12:44:23 PM - user - INFO - user: alice,上传文件: 1.jpg
+2018-04-09 12:44:29 PM - user - INFO - user: alice,上传文件: 2.jpg
+2018-04-09 12:44:39 PM - user - INFO - user: alice,上传文件: 计算机网络.mp4
+2018-04-09 12:44:50 PM - user - INFO - user: alice,上传文件: 计算机网络.mp4
+2018-04-09 12:44:57 PM - user - INFO - user: alice,上传文件: 1.jpg
+2018-04-09 12:45:11 PM - user - INFO - user: lily 登录成功
+2018-04-09 12:45:16 PM - user - INFO - user: lily,上传文件: 1.jpg
+2018-04-09 12:45:29 PM - user - INFO - user: lily,上传文件: 2.jpg
+2018-04-09 12:45:49 PM - user - INFO - user: alice_a 登录成功
+2018-04-09 12:45:55 PM - user - INFO - user: alice_a,上传文件: 2.jpg
+2018-04-09 12:45:58 PM - user - INFO - user: alice_a,下载文件: 2.jpg
+2018-04-09 12:46:16 PM - user - INFO - user: alice,下载文件: 1.jpg
+2018-04-09 12:46:37 PM - user - INFO - user: alice_a,上传文件: 1.jpg
+2018-04-09 12:51:56 PM - user - INFO - user: alice 登录成功
+2018-04-09 12:52:07 PM - user - INFO - user: alice,上传文件: 计算机网络.mp4
